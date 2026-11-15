@@ -1,6 +1,6 @@
 # reverenza-preview
 
-Vista previa **experimental** de REVERENZA — MANIFESTO ART DEPT ("Editions study V1.1"): una escena de scroll sobre frescos pictóricos con dos prendas y cuatro tablas.
+Vista previa **de presentación** de REVERENZA — MANIFESTO ART DEPT: apertura pictórica, catálogo de las ocho prendas (todas reveladas), fichas con frente y espalda, complementos (cuatro tablas de skate) y créditos.
 
 - Demostración: https://epsilong21.github.io/reverenza-preview/
 
@@ -9,7 +9,9 @@ Este repositorio contiene **solo el resultado compilado** (HTML/JS/CSS estático
 ## Estado
 - Es una demostración pública y provisional. **No** es un entorno confidencial ni está protegida por contraseña.
 - Incluye `noindex` y `robots.txt` para pedir que no se indexe; eso no es una medida de privacidad.
-- Camisetas y tablas son mockups provisionales de la marca.
+- Camisetas y tablas son mockups provisionales de la marca; no es fotografía final.
+- Composición, tallas, precios, disponibilidad y fechas de lanzamiento: por confirmar por la marca (no se publican).
+- El despliegue anterior (Editions Study V1.1) se conserva en la etiqueta `recovery-editions-study-ee8a7bb`.
 
 ## Créditos y licencias
 Detalle completo, enlaces y modificaciones: [`CREDITS.md`](CREDITS.md) y la página `/motion-lab/editions-study/creditos/` de la propia demostración.
